@@ -1,0 +1,1 @@
+Ovo je neki prvi fajl i ujedno prvi komit. Trenutno gledam tutorial za git and github.
