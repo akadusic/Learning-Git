@@ -1,1 +1,2 @@
-Ovo je neki prvi fajl i ujedno prvi komit. Trenutno gledam tutorial za git and github.
+Ovo je neki prvi fajl i ujedno prvi komit. Trenutno gledam tutorial za git and github. 
+Neki novi tekst koji je dodan budalica jedna!!!
