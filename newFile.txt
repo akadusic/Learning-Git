@@ -4,3 +4,4 @@ Line that will make conflict
 
 Some new changes
 last video changes
+Changes for pushing to GitHub
