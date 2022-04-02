@@ -4,8 +4,6 @@ Line that will make conflict
 
 
 Some text here
-Some new changes
-last video changes
 Changes for pushing to GitHub
 Changes on firstBranch branch
 adding some text directly on browser
