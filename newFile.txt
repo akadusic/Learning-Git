@@ -3,8 +3,6 @@ Added text here
 Line that will make conflict
 
 
-Some text here
-Changes for pushing to GitHub
 Changes on firstBranch branch
 adding some text directly on browser
 Text text text last for tonight
