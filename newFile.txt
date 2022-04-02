@@ -2,6 +2,8 @@ Some other text for file
 Added text here
 Line that will make conflict
 
+
+Some text here
 Some new changes
 last video changes
 Changes for pushing to GitHub
