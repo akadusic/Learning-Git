@@ -1,2 +1,3 @@
 Neki novi tekst koji je dodan budalica jedna!!!
 Some text for pushing from non-master branch
+text text text
