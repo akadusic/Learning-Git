@@ -4,5 +4,3 @@ Line that will make conflict
 
 
 Changes on firstBranch branch
-adding some text directly on browser
-Text text text last for tonight
