@@ -1,6 +1,6 @@
 Some other text for file
 Added text here
 Line that will make conflict
-
+Adding some text here
 
 Changes on firstBranch branch
