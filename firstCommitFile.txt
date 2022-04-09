@@ -1,7 +1,2 @@
 Neki novi tekst koji je dodan budalica jedna!!!
 Some text for pushing from non-master branch
-<<<<<<< HEAD
-Adding some text here day before Marvel
-=======
-Adding some text before rebasing
->>>>>>> firstBranch
