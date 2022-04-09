@@ -3,4 +3,10 @@ Added text here
 Line that will make conflict
 Adding some text here
 
+<<<<<<< HEAD
 Changes on firstBranch branch
+=======
+Some new changes
+last video changes
+First week in Marvelsoft
+>>>>>>> firstBranch
