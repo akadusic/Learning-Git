@@ -2,6 +2,14 @@ Some other text for file
 Added text here
 Line that will make conflict
 
+<<<<<<< HEAD
 Changes on firstBranch branch
+<<<<<<< HEAD
 
 Last commit before going to Tuzla
+=======
+=======
+Some new changes
+last video changes
+>>>>>>> firstBranch
+>>>>>>> master
